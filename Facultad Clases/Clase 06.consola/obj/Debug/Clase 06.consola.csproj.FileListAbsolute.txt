@@ -1,0 +1,9 @@
+C:\Users\Juan Pablo Lamas\Documents\facultad\C-Sharp\Facultad Clases\Clase 06.consola\bin\Debug\Clase 06.consola.exe.config
+C:\Users\Juan Pablo Lamas\Documents\facultad\C-Sharp\Facultad Clases\Clase 06.consola\bin\Debug\Clase 06.consola.exe
+C:\Users\Juan Pablo Lamas\Documents\facultad\C-Sharp\Facultad Clases\Clase 06.consola\bin\Debug\Clase 06.consola.pdb
+C:\Users\Juan Pablo Lamas\Documents\facultad\C-Sharp\Facultad Clases\Clase 06.consola\bin\Debug\Clase06.entidades.dll
+C:\Users\Juan Pablo Lamas\Documents\facultad\C-Sharp\Facultad Clases\Clase 06.consola\bin\Debug\Clase06.entidades.pdb
+C:\Users\Juan Pablo Lamas\Documents\facultad\C-Sharp\Facultad Clases\Clase 06.consola\obj\Debug\Clase 06.consola.csproj.CoreCompileInputs.cache
+C:\Users\Juan Pablo Lamas\Documents\facultad\C-Sharp\Facultad Clases\Clase 06.consola\obj\Debug\Clase 06.consola.csproj.CopyComplete
+C:\Users\Juan Pablo Lamas\Documents\facultad\C-Sharp\Facultad Clases\Clase 06.consola\obj\Debug\Clase 06.consola.exe
+C:\Users\Juan Pablo Lamas\Documents\facultad\C-Sharp\Facultad Clases\Clase 06.consola\obj\Debug\Clase 06.consola.pdb

@@ -1,0 +1,6 @@
+C:\Users\Juan Pablo Lamas\Documents\facultad\C-Sharp\Facultad Clases\Clase04.entidades\bin\Debug\Clase04.entidades.dll
+C:\Users\Juan Pablo Lamas\Documents\facultad\C-Sharp\Facultad Clases\Clase04.entidades\bin\Debug\Clase04.entidades.pdb
+C:\Users\Juan Pablo Lamas\Documents\facultad\C-Sharp\Facultad Clases\Clase04.entidades\obj\Debug\Clase04.entidades.csproj.CoreCompileInputs.cache
+C:\Users\Juan Pablo Lamas\Documents\facultad\C-Sharp\Facultad Clases\Clase04.entidades\obj\Debug\Clase04.entidades.dll
+C:\Users\Juan Pablo Lamas\Documents\facultad\C-Sharp\Facultad Clases\Clase04.entidades\obj\Debug\Clase04.entidades.pdb
+C:\Users\Juan Pablo Lamas\Documents\facultad\C-Sharp\Facultad Clases\Clase04.entidades\obj\Debug\Clase04.entidades.csprojAssemblyReference.cache

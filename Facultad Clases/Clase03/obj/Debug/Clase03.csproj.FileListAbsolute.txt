@@ -1,0 +1,7 @@
+C:\Users\Juan Pablo Lamas\Documents\facultad\C-Sharp\Facultad Clases\Clase03\bin\Debug\Clase03.exe.config
+C:\Users\Juan Pablo Lamas\Documents\facultad\C-Sharp\Facultad Clases\Clase03\bin\Debug\Clase03.exe
+C:\Users\Juan Pablo Lamas\Documents\facultad\C-Sharp\Facultad Clases\Clase03\bin\Debug\Clase03.pdb
+C:\Users\Juan Pablo Lamas\Documents\facultad\C-Sharp\Facultad Clases\Clase03\obj\Debug\Clase03.csprojAssemblyReference.cache
+C:\Users\Juan Pablo Lamas\Documents\facultad\C-Sharp\Facultad Clases\Clase03\obj\Debug\Clase03.csproj.CoreCompileInputs.cache
+C:\Users\Juan Pablo Lamas\Documents\facultad\C-Sharp\Facultad Clases\Clase03\obj\Debug\Clase03.exe
+C:\Users\Juan Pablo Lamas\Documents\facultad\C-Sharp\Facultad Clases\Clase03\obj\Debug\Clase03.pdb
