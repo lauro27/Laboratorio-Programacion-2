@@ -11,24 +11,22 @@ using CentralitaPolimorfismo;
 
 namespace Clase09.formulario
 {
-    public partial class frmCentral : Form
+    public partial class frmCentralAdmin : Form
     {
-        Centralita centralita;
-        public frmCentral()
+        public frmCentralAdmin()
         {
             InitializeComponent();
-            centralita = new Centralita();
         }
 
-
-
-        private void actualizarLista()
+        private void salirToolStripMenuItem_Click(object sender, EventArgs e)
         {
-            lboxLlamadas.Items.Clear();
-            foreach (Llamada llamada in this.centralita.Llamadas)
-            {
-                lboxLlamadas.Items.Add(llamada);
-            }
+            Close();
+        }
+
+        private void centralToolStripMenuItem_Click(object sender, EventArgs e)
+        {
+            frmCentral frmCentral = new frmCentral();
+            frmCentral.Show();
         }
     }
 }

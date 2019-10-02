@@ -1,2 +1,7 @@
 C:\Users\Juan Pablo Lamas\Documents\facultad\C-Sharp\Facultad Clases\CentralitaPolimorfismo\obj\Debug\CentralitaPolimorfismo.csprojAssemblyReference.cache
 C:\Users\Juan Pablo Lamas\Documents\facultad\C-Sharp\Facultad Clases\CentralitaPolimorfismo\obj\Debug\CentralitaPolimorfismo.csproj.CoreCompileInputs.cache
+C:\Users\Juan Pablo Lamas\Documents\facultad\C-Sharp\Facultad Clases\CentralitaPolimorfismo\bin\Debug\CentralitaPolimorfismo.exe.config
+C:\Users\Juan Pablo Lamas\Documents\facultad\C-Sharp\Facultad Clases\CentralitaPolimorfismo\bin\Debug\CentralitaPolimorfismo.exe
+C:\Users\Juan Pablo Lamas\Documents\facultad\C-Sharp\Facultad Clases\CentralitaPolimorfismo\bin\Debug\CentralitaPolimorfismo.pdb
+C:\Users\Juan Pablo Lamas\Documents\facultad\C-Sharp\Facultad Clases\CentralitaPolimorfismo\obj\Debug\CentralitaPolimorfismo.exe
+C:\Users\Juan Pablo Lamas\Documents\facultad\C-Sharp\Facultad Clases\CentralitaPolimorfismo\obj\Debug\CentralitaPolimorfismo.pdb

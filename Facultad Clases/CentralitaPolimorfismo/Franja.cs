@@ -1,4 +1,4 @@
-﻿enum Franja
+﻿public enum Franja
 {
     Franja_1,//0.99
     Franja_2,//1.25

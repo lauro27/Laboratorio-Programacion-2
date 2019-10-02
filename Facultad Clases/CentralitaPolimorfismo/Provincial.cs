@@ -6,7 +6,7 @@ using System.Threading.Tasks;
 
 namespace CentralitaPolimorfismo
 {
-    class Provincial:Llamada
+    public class Provincial:Llamada
     {
         private Franja _franjaHoraria;
 
