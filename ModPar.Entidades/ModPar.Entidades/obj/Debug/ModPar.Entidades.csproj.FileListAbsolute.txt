@@ -1,0 +1,6 @@
+C:\Users\Juan Pablo Lamas\Documents\facultad\C-Sharp\ModPar.Entidades\ModPar.Entidades\bin\Debug\ModPar.Entidades.dll
+C:\Users\Juan Pablo Lamas\Documents\facultad\C-Sharp\ModPar.Entidades\ModPar.Entidades\bin\Debug\ModPar.Entidades.pdb
+C:\Users\Juan Pablo Lamas\Documents\facultad\C-Sharp\ModPar.Entidades\ModPar.Entidades\obj\Debug\ModPar.Entidades.csprojAssemblyReference.cache
+C:\Users\Juan Pablo Lamas\Documents\facultad\C-Sharp\ModPar.Entidades\ModPar.Entidades\obj\Debug\ModPar.Entidades.csproj.CoreCompileInputs.cache
+C:\Users\Juan Pablo Lamas\Documents\facultad\C-Sharp\ModPar.Entidades\ModPar.Entidades\obj\Debug\ModPar.Entidades.dll
+C:\Users\Juan Pablo Lamas\Documents\facultad\C-Sharp\ModPar.Entidades\ModPar.Entidades\obj\Debug\ModPar.Entidades.pdb

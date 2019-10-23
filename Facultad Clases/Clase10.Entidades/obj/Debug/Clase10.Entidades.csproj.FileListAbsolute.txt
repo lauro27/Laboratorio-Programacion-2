@@ -1,0 +1,2 @@
+C:\Users\Juan Pablo Lamas\Documents\facultad\C-Sharp\Facultad Clases\Clase10.Entidades\obj\Debug\Clase10.Entidades.csprojAssemblyReference.cache
+C:\Users\Juan Pablo Lamas\Documents\facultad\C-Sharp\Facultad Clases\Clase10.Entidades\obj\Debug\Clase10.Entidades.csproj.CoreCompileInputs.cache

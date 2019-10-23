@@ -1,0 +1,10 @@
+C:\Users\Juan Pablo Lamas\Documents\facultad\C-Sharp\ModPar.Entidades\ModPar.Consola\bin\Debug\ModPar.Consola.exe.config
+C:\Users\Juan Pablo Lamas\Documents\facultad\C-Sharp\ModPar.Entidades\ModPar.Consola\bin\Debug\ModPar.Consola.exe
+C:\Users\Juan Pablo Lamas\Documents\facultad\C-Sharp\ModPar.Entidades\ModPar.Consola\bin\Debug\ModPar.Consola.pdb
+C:\Users\Juan Pablo Lamas\Documents\facultad\C-Sharp\ModPar.Entidades\ModPar.Consola\bin\Debug\ModPar.Entidades.dll
+C:\Users\Juan Pablo Lamas\Documents\facultad\C-Sharp\ModPar.Entidades\ModPar.Consola\bin\Debug\ModPar.Entidades.pdb
+C:\Users\Juan Pablo Lamas\Documents\facultad\C-Sharp\ModPar.Entidades\ModPar.Consola\obj\Debug\ModPar.Consola.csprojAssemblyReference.cache
+C:\Users\Juan Pablo Lamas\Documents\facultad\C-Sharp\ModPar.Entidades\ModPar.Consola\obj\Debug\ModPar.Consola.csproj.CoreCompileInputs.cache
+C:\Users\Juan Pablo Lamas\Documents\facultad\C-Sharp\ModPar.Entidades\ModPar.Consola\obj\Debug\ModPar.Consola.csproj.CopyComplete
+C:\Users\Juan Pablo Lamas\Documents\facultad\C-Sharp\ModPar.Entidades\ModPar.Consola\obj\Debug\ModPar.Consola.exe
+C:\Users\Juan Pablo Lamas\Documents\facultad\C-Sharp\ModPar.Entidades\ModPar.Consola\obj\Debug\ModPar.Consola.pdb
