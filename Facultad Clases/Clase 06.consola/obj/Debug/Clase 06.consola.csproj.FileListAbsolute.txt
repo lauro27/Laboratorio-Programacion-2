@@ -7,3 +7,4 @@ C:\Users\Juan Pablo Lamas\Documents\facultad\C-Sharp\Facultad Clases\Clase 06.co
 C:\Users\Juan Pablo Lamas\Documents\facultad\C-Sharp\Facultad Clases\Clase 06.consola\obj\Debug\Clase 06.consola.csproj.CopyComplete
 C:\Users\Juan Pablo Lamas\Documents\facultad\C-Sharp\Facultad Clases\Clase 06.consola\obj\Debug\Clase 06.consola.exe
 C:\Users\Juan Pablo Lamas\Documents\facultad\C-Sharp\Facultad Clases\Clase 06.consola\obj\Debug\Clase 06.consola.pdb
+C:\Users\Juan Pablo Lamas\Documents\facultad\C-Sharp\Facultad Clases\Clase 06.consola\obj\Debug\Clase 06.consola.csprojAssemblyReference.cache
